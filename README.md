@@ -1,2 +1,2 @@
-# zilla-rocks
+# Zilla Rocks
 Zilla Rocks Website
